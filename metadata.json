@@ -1,0 +1,6 @@
+{
+  "name": "NOIR.FIT — Premium Fitness Space Ranchi",
+  "description": "Premium agency-grade gym demo website for NOIR.FIT in Ranchi, Jharkhand. Features interactive 3D fitness objects, BMI calculator, before/after slider, and WhatsApp conversion flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
